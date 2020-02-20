@@ -1,0 +1,18 @@
+.img {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: calc(300% - 480px);
+  position: relative;
+  z-index: 1;
+}
+
+
+.sign-up-form {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  width: 100%;
+}

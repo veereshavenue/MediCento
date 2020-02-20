@@ -1,0 +1,16 @@
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+  }
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: rgb(31, 11, 216);
+  text-align: center;
+}
